@@ -1,0 +1,83 @@
+KPI_ID,Code,Name,Type,Description,Guidelines,Folder_Tags,Schema,Reporting_Groups,ESG,SDG,Tags,Atlas_KPI_slug,filter_json,aggregation,agg_column
+,Personalizado_Social_01,Número de nuevas contrataciones de mujeres en puestos de Dirección,NUMBER,Número de nuevas contrataciones de mujeres en puestos de Dirección,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,"{""Sexo"": ""Mujer"", ""Clasificacion"": ""DIRECTIVO""}",count,
+,Personalizado_Social_02,Número de nuevas contrataciones de hombres en puestos de Dirección,NUMBER,Número de nuevas contrataciones de hombres en puestos de Dirección,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,"{""Sexo"": ""Hombre"", ""Clasificacion"": ""DIRECTIVO""}",count,
+,Personalizado_Social_03,Número de nuevas contrataciones de mujeres en puestos de Gerencia General,NUMBER,Número de nuevas contrataciones de mujeres en puestos de Gerencia General,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,"{""Sexo"": ""Mujer"", ""Clasificacion"": ""DIRECTIVO""}",count,
+,Personalizado_Social_04,Número de nuevas contrataciones de hombres en puestos de Gerencia General,NUMBER,Número de nuevas contrataciones de hombres en puestos de Gerencia General,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,"{""Sexo"": ""Hombre"", ""Clasificacion"": ""DIRECTIVO""}",count,
+,Personalizado_Social_05,Número de nuevas contrataciones de mujeres en puestos de Gerencia,NUMBER,Número de nuevas contrataciones de mujeres en puestos de Gerencia,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,"{""Sexo"": ""Mujer"", ""Clasificacion"": ""MANDO INTERMEDIO""}",count,
+,Personalizado_Social_06,Número de nuevas contrataciones de hombres en puestos de Gerencia,NUMBER,Número de nuevas contrataciones de hombres en puestos de Gerencia,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,"{""Sexo"": ""Hombre"", ""Clasificacion"": ""MANDO INTERMEDIO""}",count,
+,Personalizado_Social_07,Número de nuevas contrataciones de mujeres en puestos de Supervisión,NUMBER,Número de nuevas contrataciones de mujeres en puestos de Supervisión,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,"{""Sexo"": ""Mujer"", ""Clasificacion"": ""MANDO INTERMEDIO""}",count,
+,Personalizado_Social_08,Número de nuevas contrataciones de hombres en puestos de Supervisión,NUMBER,Número de nuevas contrataciones de hombres en puestos de Supervisión,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,"{""Sexo"": ""Hombre"", ""Clasificacion"": ""MANDO INTERMEDIO""}",count,
+,Personalizado_Social_09,Número de nuevas contrataciones de mujeres en puestos Operativos,NUMBER,Número de nuevas contrataciones de mujeres en puestos Operativos,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,"{""Sexo"": ""Mujer"", ""Clasificacion"": ""OPERATIVO""}",count,
+,Personalizado_Social_10,Número de nuevas contrataciones de hombres en puestos Operativos,NUMBER,Número de nuevas contrataciones de hombres en puestos Operativos,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,"{""Sexo"": ""Hombre"", ""Clasificacion"": ""OPERATIVO""}",count,
+,Personalizado_Social_11,Número de nuevas contrataciones de hombres en contrato permanente en planta,NUMBER,Número de nuevas contrataciones de hombres en contrato permanente en planta,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,"{""Sexo"": ""Hombre"", ""Contrato Duracion"": ""Indefinido"", ""Contrato jornada"": ""Tiempo Completo""}",count,
+,Personalizado_Social_12,Número de nuevas contrataciones de mujeres en contrato permanente en planta,NUMBER,Número de nuevas contrataciones de mujeres en contrato permanente en planta,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,"{""Sexo"": ""Mujer"", ""Contrato Duracion"": ""Indefinido"", ""Contrato jornada"": ""Tiempo Completo""}",count,
+,Personalizado_Social_13,Número de nuevas contrataciones de hombres en contrato temporal,NUMBER,Número de nuevas contrataciones de hombres en contrato temporal,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,"{""Sexo"": ""Hombre"", ""Contrato Duracion"": ""Temporal""}",count,
+,Personalizado_Social_14,Número de nuevas contrataciones de mujeres en contrato temporal,NUMBER,Número de nuevas contrataciones de mujeres en contrato temporal,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,"{""Sexo"": ""Mujer"", ""Contrato Duracion"": ""Temporal""}",count,
+,Personalizado_Social_17,Número de nuevas contrataciones de colaboradores menores de 30 años,NUMBER,Número de nuevas contrataciones de colaboradores menores de 30 años,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,"{""Categoria Edad"": ""<30""}",count,
+,Personalizado_Social_18,Número de nuevas contrataciones de colaboradores entre 30 y 39 años,NUMBER,Número de nuevas contrataciones de colaboradores entre 30 y 39 años,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,"{""Categoria Edad"": ""30-50""}",count,
+,Personalizado_Social_19,Número de nuevas contrataciones de colaboradores entre 40 y 49 años,NUMBER,Número de nuevas contrataciones de colaboradores entre 40 y 49 años,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,"{""Categoria Edad"": ""30-50""}",count,
+,Personalizado_Social_20,Número de nuevas contrataciones de colaboradores entre 50 y 59 años,NUMBER,Número de nuevas contrataciones de colaboradores entre 50 y 59 años,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,"{""Categoria Edad"": ""30-50""}",count,
+,Personalizado_Social_21,Número de nuevas contrataciones de colaboradores mayores de 60 años,NUMBER,Número de nuevas contrataciones de colaboradores mayores de 60 años,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,"{""Categoria Edad"": "">50""}",count,
+,Personalizado_Social_22,Número de colaboradores al final del periodo con menos de 1 año de antigüedad,NUMBER,Número de colaboradores al final del periodo con menos de 1 año de antigüedad,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,,count,
+,Personalizado_Social_23,Número de colaboradores al final del periodo con entre 1 y 3 años de antigüedad,NUMBER,Número de colaboradores al final del periodo con entre 1 y 3 años de antigüedad,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,,count,
+,Personalizado_Social_24,Número de colaboradores al final del periodo con entre 3 y 5 años de antigüedad,NUMBER,Número de colaboradores al final del periodo con entre 3 y 5 años de antigüedad,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,,count,
+,Personalizado_Social_25,Número de colaboradores al final del periodo con entre 5 y 10 años de antigüedad,NUMBER,Número de colaboradores al final del periodo con entre 5 y 10 años de antigüedad,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,,count,
+,Personalizado_Social_26,Número de colaboradores al final del periodo con entre 10 y 20 años de antigüedad,NUMBER,Número de colaboradores al final del periodo con entre 10 y 20 años de antigüedad,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,,count,
+,Personalizado_Social_27,Número de colaboradores al final del periodo con más de 20 años de antigüedad,NUMBER,Número de colaboradores al final del periodo con más de 20 años de antigüedad,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,,count,
+,Personalizado_Social_28,Nuevas contrataciones hombres,NUMBER,Nuevas contrataciones hombres,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,"{""Sexo"": ""Hombre""}",count,
+,Personalizado_Social_29,Nuevas contrataciones mujeres,NUMBER,Nuevas contrataciones mujeres,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,"{""Sexo"": ""Mujer""}",count,
+,Personalizado_Social_30,Horas de capacitación al final del periodo,NUMBER,Horas de capacitación al final del periodo,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,,count,
+,Personalizado_Social_31,Horas de hombres en capacitación al final del periodo,NUMBER,Horas de hombres en capacitación al final del periodo,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,,count,
+,Personalizado_Social_32,Número de participantes en capacitaciones al final del periodo,NUMBER,Número de participantes en capacitaciones al final del periodo,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,,count,
+,Personalizado_Social_33,Número de participantes en capacitaciones de competencias operativas y técnicas al final del periodo,NUMBER,Número de participantes en capacitaciones de competencias operativas y técnicas al final del periodo,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,,count,
+,Personalizado_Social_34,"Número de participantes en capacitaciones de Inocuidad alimentaria al final del periodo
+",NUMBER,"Número de participantes en capacitaciones de Inocuidad alimentaria al final del periodo
+",,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,,count,
+,Personalizado_Social_35,"Número de participantes en capacitaciones de Sistemas y tecnología al final del periodo
+",NUMBER,"Número de participantes en capacitaciones de Sistemas y tecnología al final del periodo
+",,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,,count,
+,Personalizado_Social_36,"Número de participantes en capacitaciones de cultura y liderazgo al final del periodo
+",NUMBER,"Número de participantes en capacitaciones de cultura y liderazgo al final del periodo
+",,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,,count,
+,Personalizado_Social_37,"Número de participantes en capacitaciones de protección infantil (ESCNNA-VT) al final del periodo
+",NUMBER,"Número de participantes en capacitaciones de protección infantil (ESCNNA-VT) al final del periodo
+",,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,,count,
+,Personalizado_Social_38,"Número de participantes en capacitaciones de sustentabilidad al final del periodo
+",NUMBER,"Número de participantes en capacitaciones de sustentabilidad al final del periodo
+",,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,,count,
+,Personalizado_Social_39,"Número de participantes en capacitaciones de seguridad e higiene al final del periodo
+",NUMBER,"Número de participantes en capacitaciones de seguridad e higiene al final del periodo
+",,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,,count,
+,Personalizado_Social_40,"Número de participantes en capacitaciones de servicio y ventas al final del periodo
+",NUMBER,"Número de participantes en capacitaciones de servicio y ventas al final del periodo
+",,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,,count,
+,Personalizado_Social_41,"Número de participantes en capacitaciones de ética y cumplimiento al final del periodo
+",NUMBER,"Número de participantes en capacitaciones de ética y cumplimiento al final del periodo
+",,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,,count,
+,Personalizado_Social_42,Número de horas en capacitaciones de competencias operativas y técnicas al final del periodo,NUMBER,Número de horas en capacitaciones de competencias operativas y técnicas al final del periodo,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,,count,
+,Personalizado_Social_43,"Número de horas en capacitaciones de Inocuidad alimentaria al final del periodo
+",NUMBER,"Número de horas en capacitaciones de Inocuidad alimentaria al final del periodo
+",,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,,count,
+,Personalizado_Social_44,"Número de horas en capacitaciones de Sistemas y tecnología al final del periodo
+",NUMBER,"Número de horas en capacitaciones de Sistemas y tecnología al final del periodo
+",,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,,count,
+,Personalizado_Social_45,"Número de horas en capacitaciones de cultura y liderazgo al final del periodo
+",NUMBER,"Número de horas en capacitaciones de cultura y liderazgo al final del periodo
+",,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,,count,
+,Personalizado_Social_46,"Número de horas en capacitaciones de protección infantil (ESCNNA-VT) al final del periodo
+",NUMBER,"Número de horas en capacitaciones de protección infantil (ESCNNA-VT) al final del periodo
+",,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,,count,
+,Personalizado_Social_47,"Número de horas en capacitaciones de sustentabilidad al final del periodo
+",NUMBER,"Número de horas en capacitaciones de sustentabilidad al final del periodo
+",,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,,count,
+,Personalizado_Social_48,"Número de horas en capacitaciones de seguridad e higiene al final del periodo
+",NUMBER,"Número de horas en capacitaciones de seguridad e higiene al final del periodo
+",,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,,count,
+,Personalizado_Social_49,"Número de horas en capacitaciones de servicio y ventas al final del periodo
+",NUMBER,"Número de horas en capacitaciones de servicio y ventas al final del periodo
+",,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,,count,
+,Personalizado_Social_50,"Número de horas en capacitaciones de ética y cumplimiento al final del periodo
+",NUMBER,"Número de horas en capacitaciones de ética y cumplimiento al final del periodo
+",,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,,count,
+,Personalizado_Social_51,Número de huéspedes al final del periodo,NUMBER,Número de huéspedes al final del periodo,,Ocupación de cuartos,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,,count,
+,Personalizado_Social_52,Número de evaluaciones de desempeño realizadas al final del periodo,NUMBER,Número de evaluaciones de desempeño realizadas al final del periodo,,Datos Sociales,"{""type"": ""number"", ""units"": [""integer""]}",,SOCIAL,,,,,count,
